@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "name": "Maya  Nakul Shingote.",
+      "email": "mayashingote@gmail.com",
+      "phone": "07276164356",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "ram",
+      "email": "rame@gmail.com",
+      "phone": "897098",
+      "active": true,
+      "id": 2
+    }
+  ]
+}
